@@ -1,0 +1,2 @@
+# reversi
+SDD Major work 
